@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+FmTh2LMOggs4aBBniVS17swO1m1SzS22f3JgIl+NLhtFCp4cEn1TC59gq8WaKrGhb01tKnMB35b/gBPbHATLg==",
+  "dgSpecHash": "hdCvz+csrJtelsWcsPPI3aURlPZD5zGTt5A2Lanq9rSUT0s9OLRrH3NAQFnRSoyLnlZMdpK7HoegiMjKSkM7SA==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Desktop\\MyCoreApp\\MyCoreApp.csproj",
+  "projectFilePath": "/Users/inheepark/Desktop/MyCoreApp/MyCoreApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
